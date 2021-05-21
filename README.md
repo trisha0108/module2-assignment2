@@ -8,6 +8,10 @@ Updating Software:
    
    ![updating software](https://user-images.githubusercontent.com/83501404/119148389-0fd74d00-ba6a-11eb-9551-cdc13a825481.png)
 
+Deleting corrupted file:
+    
+   Search for corrupted file in users program  , if we have any corrupted file , we can delete it by selecting it.
+
 Finding and deleting files:
  
    Find a large file (GB) and delete it.
@@ -26,9 +30,7 @@ Finding and terminating specific process:
    
    ![malicious software](https://user-images.githubusercontent.com/83501404/119149879-8cb6f680-ba6b-11eb-8c95-5009f9091ae4.png)
    
- Deleting corrupted file:
-    
-    Search for corrupted file in users program  , if we have any corrupted file , we can delete it by selecting it.
+ 
 
    
    
