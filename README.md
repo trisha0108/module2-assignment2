@@ -18,5 +18,12 @@ Modifying file permission:
   
    Choose the folder which we want to change the permission which already exists , select the properties and change the security permissions.
    
+   ![giving permission](https://user-images.githubusercontent.com/83501404/119149319-0995a080-ba6b-11eb-9a3f-8e51b29b9b1b.png)
+   
+Finding and terminating specific process:
+
+   Go to Task Manager , search for malicious software , if u find a malicious software select the file and end task.
+   
+   
    
    
