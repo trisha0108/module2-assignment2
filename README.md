@@ -25,6 +25,10 @@ Finding and terminating specific process:
    Go to Task Manager , search for malicious software , if u find a malicious software select the file and end task.
    
    ![malicious software](https://user-images.githubusercontent.com/83501404/119149879-8cb6f680-ba6b-11eb-8c95-5009f9091ae4.png)
+   
+ Deleting corrupted file:
+    
+    Search for corrupted file in users program  , if we have any corrupted file , we can delete it by selecting it.
 
    
    
